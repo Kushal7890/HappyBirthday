@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="todo">TODO</string>
+    <string name="from_kushal">From Kushal</string>
+    <string name="hello">Hello</string>
+    <string name="happybirthday_kushal">HappyBirthday Kushal</string>
+</resources>
